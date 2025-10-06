@@ -1,0 +1,4 @@
+Python 3.8+
+Standard libraries only (random, itertools, etc.)
+Optional: numpy or pandas if extending functionality
+
